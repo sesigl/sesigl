@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sesigl
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning machine learning, how to teach and how to be a good leader
+- 🌱 I’m currently learning how to use augmented coding for goood
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 Reach me via linked in or twitter
+- 📫 Reach me via LinkedIn, Bluesky or X
 
 <!---
 sesigl/sesigl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
