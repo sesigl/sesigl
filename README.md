@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sesigl
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning how to use augmented coding for goood
+- 🌱 I’m currently learning how to use augmented coding for good
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via LinkedIn, Bluesky or X
 
